@@ -1,8 +1,0 @@
-Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
-Building remotely on [8mha:AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/eKcxLJUAEnZB8bEAAAA[0mslave in workspace /Users/jenkins/slave/workspace/testcr
-[testcr] $ /bin/sh -xe /var/folders/7x/lgz88y1x7r36rnykmmj9j01w0000gn/T/hudson2618283865172351713.sh
-Uploading dSYM to Crittercism...
-DSYM: /Users/jenkins/slave/workspace/testcr/build/FPM-dSYM.zip
-200
-successfully uploaded dSYM to Crittercism
-Finished: SUCCESS
