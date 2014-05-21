@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="InjectedTest" time="0.835" tests="4" errors="0" skipped="0" failures="0">
+<testsuite name="InjectedTest" time="1.782" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="idea.version" value="13.1.2"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -14,7 +14,7 @@
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
     <property name="file.encoding.pkg" value="sun.io"/>
-    <property name="idea.launcher.port" value="7533"/>
+    <property name="idea.launcher.port" value="7535"/>
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
@@ -67,8 +67,8 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="index.jelly" classname="org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck" time="0.041"/>
-  <testcase name="org/jenkinsci/plugins/crittercism_dsym/CrittercismDsymRecorder/config.jelly" classname="org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck" time="0.155"/>
+  <testcase name="index.jelly" classname="org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck" time="0.032"/>
+  <testcase name="org/jenkinsci/plugins/crittercism_dsym/CrittercismDsymRecorder/config.jelly" classname="org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck" time="0.129"/>
   <testcase name="org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyTestSuite" classname="org.jvnet.hudson.test.junit.FailedTest" time="0"/>
-  <testcase name="testCliSanity" classname="org.jvnet.hudson.test.PluginAutomaticTestBuilder$CliSanityTest" time="0.639"/>
+  <testcase name="testCliSanity" classname="org.jvnet.hudson.test.PluginAutomaticTestBuilder$CliSanityTest" time="1.621"/>
 </testsuite>
