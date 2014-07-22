@@ -51,7 +51,7 @@ public class CrittercismUploader implements Serializable {
      */
     public void upload(UploadRequest ur, BuildListener listener) throws IOException, org.json.simple.parser.ParseException {
         HttpClient httpClient = new DefaultHttpClient();
-        HttpPost httpPost = new HttpPost("https://app.crittercism.com/api_beta/dsym/" + ur.appId);
+        HttpPost httpPost = new HttpPost("https://api.crittercism.com/api_beta/dsym/" + ur.appId);
         MultipartEntity entity = new MultipartEntity();
 
         entity.addPart("key", new StringBody(ur.apiKey));
