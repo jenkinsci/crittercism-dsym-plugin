@@ -16,6 +16,7 @@ hosts.
 The plugin may encounter the following errors while uploading the dSYM file:
 
 **Error 400**: There was a problem with the dSYM file.
+
 **Error 404**: App was not found or the given tokens are incorrect.
 
 **Note:** Depending on your configuration, the dSYM zip file generated in your build steps may be named something like
@@ -40,4 +41,4 @@ If you'd like to contribute changes to the plugin, feel free to contact me via G
 
 **REFERENCES:**
 
-1. **Critter Compendium**: http://support.crittercism.com/customer/portal/articles/699971-uploading-dsym-files-via-api
+1. **Critter Docs iOS**: http://docs.crittercism.com/ios/ios.html#uploading-dsyms-via-the-command-line
